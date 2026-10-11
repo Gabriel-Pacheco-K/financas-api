@@ -1,6 +1,6 @@
 # 💰 Finanças API
 
-![CI](https://github.com/Gabriel-Pacheco-K/portf-lio/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/Gabriel-Pacheco-K/financas-api/actions/workflows/ci.yml/badge.svg)
 ![Java](https://img.shields.io/badge/Java-21-orange)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.3-6DB33F)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-336791)
@@ -68,8 +68,8 @@ src/main/java/com/gabrielpacheco/financas
 ### Com Docker (recomendado)
 
 ```bash
-git clone https://github.com/Gabriel-Pacheco-K/portf-lio.git
-cd portf-lio
+git clone https://github.com/Gabriel-Pacheco-K/financas-api.git
+cd financas-api
 docker compose up --build
 ```
 
