@@ -10,6 +10,10 @@ API REST para controle de finanças pessoais. Cada usuário cadastra suas catego
 
 O foco do projeto é mostrar práticas usadas em APIs de produção: autenticação stateless com JWT, isolamento de dados entre usuários, migrações versionadas, tratamento de erros padronizado, testes automatizados e integração contínua.
 
+![Demonstração: conta com JWT, lançamentos, relatório do mês e bloqueios de segurança](docs/demo.gif)
+
+*Gravado com a API e o PostgreSQL rodando de verdade.*
+
 ---
 
 ## ✨ Funcionalidades
